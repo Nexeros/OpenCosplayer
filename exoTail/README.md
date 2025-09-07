@@ -23,9 +23,9 @@ This list covers parts common to both versions. Additional components for the mo
 *   **Steel Rope:** `3x` 1,5mm (length 10cm times number of modules)
 
 #### 3D Printed Parts (per segment):
-*   `1x` Segment_A.stl
-*   `1x` Segment_B.stl
-*   `1x` Joint_Pin.stl
+*   `1x` spine_module.3mf
+*   `4x` distancer.3mf
+*   `1x` rubber_bushing.3mf
 
 ---
 
@@ -35,17 +35,17 @@ This list covers parts common to both versions. Additional components for the mo
 *   Ensure all parts are printed correctly. Remove all support material and clean up any holes, especially for the screws.
 
 **Step 2: Connect the Segments**
-*   Align `Segment_B` over `Segment_A` so that the holes in both parts and the bearing line up perfectly.
-*   Slide the `Joint_Pin` through the holes of both segments and through the inner race of the bearing.
+*   Align `spine_module` over next `spine_module` at 90 degrees and slide in bearing hole, then align them so that the holes in both parts and the bearing line up perfectly.
+*   Slide the `distancer`.
 
 **Step 3: Secure the Connection**
-*   Drive the `M3` self-tapping screws into the holes on the `Joint_Pin`. This will lock the pin in place and secure the entire joint. Do not overtighten, as this can damage the plastic.
+*   Drive the `M3` self-tapping screws into the holes on the `distancer`. This will lock the pin in place and secure the entire joint. Do not overtighten, as this can damage the plastic.
 
 **Step 4: Repeat the Process**
-*   Repeat steps 2-4 for each subsequent segment until you achieve your desired tail length. Use a special `End_Cap.stl` for the final segment.
+*   Repeat steps 2-4 for each subsequent segment until you achieve your desired tail length. Use a special `end_module.3mf` for the final segment.
 
 **Step 7: Mount the Base**
-*   Attach the first segment to the `Mounting_Base.stl`, which is used to fasten the tail to a belt or harness.
+*   Attach the first segment to the `base_module.3mf` with mounted `*_mount.3mf` (based on version), which is used to fasten the tail to a belt or harness.
 
 ---
 
