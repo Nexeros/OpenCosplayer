@@ -20,7 +20,9 @@ This list covers parts common to both versions. Additional components for the mo
 
 #### Non-Printed Parts (per segment):
 *   **Self-Tapping Screw:** `2x` M3 (length 8-12 mm, **Important:** head diameter must be 6mm or less)
-*   **Steel Rope:** `3x` 1,5mm (length 10cm times number of modules)
+*   **Steel Rope:** `3x` 1,5mm (length 10cm times number of modules. **Not necessary for Inertial version, but can help to align tail**)
+*   **PTFE tube:** `3x` 4mm (length 42mm times number of modules)
+*   **Springs:** `4x` 15mm (recommended, max 30, min 10mm as you want to stiffen your tail)
 
 #### 3D Printed Parts (per segment):
 *   `1x` spine_module.3mf
@@ -39,7 +41,7 @@ This list covers parts common to both versions. Additional components for the mo
 *   Slide the `distancer`.
 
 **Step 3: Secure the Connection**
-*   Drive the `M3` self-tapping screws into the holes on the `distancer`. This will lock the pin in place and secure the entire joint. Do not overtighten, as this can damage the plastic.
+*   Drive the `M3` self-tapping screws into the holes on the `distancer`. This will secure the entire joint by locking the pin in place. Do not overtighten, as this can damage the plastic.
 
 **Step 4: Repeat the Process**
 *   Repeat steps 2-4 for each subsequent segment until you achieve your desired tail length. Use a special `end_module.3mf` for the final segment.
@@ -47,6 +49,13 @@ This list covers parts common to both versions. Additional components for the mo
 **Step 7: Mount the Base**
 *   Attach the first segment to the `base_module.3mf` with mounted `*_mount.3mf` (based on version), which is used to fasten the tail to a belt or harness.
 
+**Step 8: Install ropes (not necessary for Inertial version)** 
+*   Cut 4mm (1.7mm inner) PTFE tube and slide it into the holes in the segments.
+*   Drag steel rope through segments, including `end_module.3mf` and `base_module.3mf`.
+*   Lock with srews at ends and in segments you want.
+
+**Step 9: Install springs**
+*   Tension the springs and attach them to the mounting holes in the segments.
 ---
 
 ## Recommendations and Tips
