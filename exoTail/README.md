@@ -2,7 +2,8 @@
 
 This folder contains all necessary files (3D models, etc.) to build a mechanical, segmented tail. The project was designed with modularity in mind and is available in two main versions.
 
-![image_placeholder](https://via.placeholder.com/600x300.png?text=Insert+a+picture+of+your+project+here!)
+<img width="591" height="623" alt="obraz" src="https://github.com/user-attachments/assets/a8bb1319-33af-4af9-955f-dca1baf341a5" />
+
 
 ---
 
@@ -19,6 +20,7 @@ This list covers parts common to both versions. Additional components for the mo
 
 #### Non-Printed Parts (per segment):
 *   **Self-Tapping Screw:** `2x` M3 (length 8-12 mm, **Important:** head diameter must be 6mm or less)
+*   **Steel Rope:** `3x` 1,5mm (length 10cm times number of modules)
 
 #### 3D Printed Parts (per segment):
 *   `1x` Segment_A.stl
