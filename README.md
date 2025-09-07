@@ -21,7 +21,7 @@ This project is built on the principle of open collaboration. Feel free to use, 
 
 To get started with the project files, you will need access to certain tools and software.
 
-*   **For 3D Models (.stl, .step, .f3d):**
+*   **For 3D Models (.3mf, .step, .f3d):**
     *   A 3D printer and slicing software (e.g., PrusaSlicer, Cura).
     *   CAD software for viewing or modifying models (e.g., Autodesk Fusion 360, FreeCAD).
 *   **For Schematics (.pdf, .sch):**
