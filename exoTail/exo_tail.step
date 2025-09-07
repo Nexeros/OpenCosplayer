@@ -10,7 +10,7 @@ FILE_DESCRIPTION(
 
 FILE_NAME(
 /* name */ 'exo_tail.step',
-/* time_stamp */ '2025-09-07T20:33:50+02:00',
+/* time_stamp */ '2025-09-07T21:08:16+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20.1',
@@ -71195,7 +71195,7 @@ SOLID_ANGLE_UNIT()
 #67406=SHAPE_REPRESENTATION('',(#38694),#67385);
 #67407=SHAPE_REPRESENTATION('',(#39847),#67386);
 #67408=PRODUCT_DEFINITION_CONTEXT('part definition',#67422,'design');
-#67409=PRODUCT_DEFINITION('tail_module','tail_module v9',#67413,#67408);
+#67409=PRODUCT_DEFINITION('tail_module','tail_module v10',#67413,#67408);
 #67410=PRODUCT_DEFINITION('spine_module','spine_module',#67414,#67408);
 #67411=PRODUCT_DEFINITION('base_module_Inertial ',
 'base_module_Inertial ',#67415,#67408);
@@ -71204,8 +71204,8 @@ SOLID_ANGLE_UNIT()
 #67414=PRODUCT_DEFINITION_FORMATION('',$,#67425);
 #67415=PRODUCT_DEFINITION_FORMATION('',$,#67426);
 #67416=PRODUCT_DEFINITION_FORMATION('',$,#67427);
-#67417=PRODUCT_RELATED_PRODUCT_CATEGORY('tail_module v9',
-'tail_module v9',(#67424));
+#67417=PRODUCT_RELATED_PRODUCT_CATEGORY('tail_module v10',
+'tail_module v10',(#67424));
 #67418=PRODUCT_RELATED_PRODUCT_CATEGORY('spine_module','spine_module',(#67425));
 #67419=PRODUCT_RELATED_PRODUCT_CATEGORY('base_module_Inertial ',
 'base_module_Inertial ',(#67426));
@@ -71215,7 +71215,7 @@ SOLID_ANGLE_UNIT()
 #67422=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #67423=PRODUCT_CONTEXT('part definition',#67422,'mechanical');
-#67424=PRODUCT('tail_module','tail_module v9',$,(#67423));
+#67424=PRODUCT('tail_module','tail_module v10',$,(#67423));
 #67425=PRODUCT('spine_module','spine_module',$,(#67423));
 #67426=PRODUCT('base_module_Inertial ','base_module_Inertial ',$,(#67423));
 #67427=PRODUCT('end_module','end_module',$,(#67423));
