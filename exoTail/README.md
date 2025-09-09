@@ -2,7 +2,8 @@
 
 This folder contains all necessary files (3D models, etc.) to build a mechanical, segmented tail. The project was designed with modularity in mind and is available in two main versions.
 
-<img width="591" height="623" alt="obraz" src="https://github.com/user-attachments/assets/a8bb1319-33af-4af9-955f-dca1baf341a5" />
+<img width="852" height="748" alt="obraz" src="https://github.com/user-attachments/assets/3b1db527-56fe-42dd-8045-4c8247563568" />
+
 
 
 ---
