@@ -22,7 +22,7 @@ This list covers parts common to both versions. Additional components for the mo
 
 #### Non-Printed Parts (per segment):
 *   **Self-Tapping Screw:** `2x` M3 (length 8-12 mm, **Important:** head diameter must be 6mm or less)
-*   **Steel Rope:** `3x` 1,5mm (length 10cm times number of modules. **Not necessary for Inertial version, but can help to align tail**)
+*   **Steel Rope:** `3x` 1,5mm (length 10cm times number of modules. **Not necessary for Inertial version, but can help to align tail**) [Recomended](https://www.leroymerlin.pl/produkty/linka-stalowa-nierdzewna-27-kg-1-5-mm-x-5-m-standers-89125636.html)
 *   **PTFE tube:** `3x` 4mm (length 42mm times number of modules + 28mm for base module + 67mm for end module)
 *   **Springs:** `4x` 15mm (recommended, max 30, min 10mm as you want to stiffen your tail) [Recomended](https://www.leroymerlin.pl/produkty/sprezyna-naciagowa-9-kg-7-x-30-x-1-mm-2-szt-standers-91007852.html?srsltid=AfmBOooTFZEYTEJ7x-S1eKeEEcf202TfH3XF0Nk6k94UN-9RfLs5K_pigp0)
 
